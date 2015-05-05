@@ -49,19 +49,19 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-Plot 1
+plot1.R
 
-ExDataCP1Plot1.png
+plot1.png
 
-Plot 2
+plot2.R
 
-ExDataCP1Plot2.png
+plot2.png
 
-Plot 3
+plot3.R
 
-ExDataCP1Plot3.png
+plot3.png
 
-Plot 4
+plot4.R
 
-ExDataCP1Plot4.png
+plot4.png
 
